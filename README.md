@@ -4,3 +4,6 @@
  and django framework
  
  we need to run manage.py file as python manage.py runserver
+ # Watch demo of the project
+ 
+https://drive.google.com/file/d/1HxaWh8LkLMxOZvQIjirgvI66_Rujezva/view?usp=sharing
